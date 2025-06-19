@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "",
+    "username": "hxrvexa@gmail.com",
+    "password": "enderman123",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "hxrsmp.aternos.me",
+    "port": 42954,
     "version": "1.17.1"
   },
 
@@ -35,10 +35,10 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player ",
-        "My owner is Xudwy ",
-        "I want be alone ",
-        "Visit my GitHub page! (Xudwy/Aternos-247-Bot)"
+        "iron golem agya bhago bc ",
+        "ajo ",
+        "mineing karne chle ",
+        "xp farm mai jara mai"
       ]
     },
 
